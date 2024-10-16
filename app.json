@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "Stray Kids Wallpaper",
+    "slug": "dark-knight-stray-kids-wallpaper",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.drigo.oliveira94.darkknightstraykidswallpaper",
+      "versionCode": 5
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8eada483-993c-4820-9861-9987bdb42e07"
+      }
+    }
+  },
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-6202074218659375~9227564504",
+    "ios_app_id": "ca-app-pub-6202074218659375~9227564504"
+  }
+}
