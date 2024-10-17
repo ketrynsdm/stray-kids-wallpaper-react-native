@@ -1,6 +1,12 @@
 export type Category =
-  | 'dragon-ball'
-  | 'naruto'
-  | 'jujutsu'
-  | 'demon-slayer'
-  | 'boku-no-hero';
+  | 'stray-kids'
+  | 'hyunjin'
+  | 'felix'
+  | 'bang-chan'
+  | 'lee-know'
+  | 'han-jisung'
+  | 'jeongin'
+  | 'seungmin'
+  | 'changbin'
+  | 'woojin'
+  ;
